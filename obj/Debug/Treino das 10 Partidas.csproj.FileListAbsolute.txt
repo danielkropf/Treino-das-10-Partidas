@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\bin\Debug\Treino das 10 Partidas.exe.config
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\bin\Debug\Treino das 10 Partidas.exe
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\bin\Debug\Treino das 10 Partidas.pdb
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\obj\Debug\Treino das 10 Partidas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\obj\Debug\Treino_das_10_Partidas.Form1.resources
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\obj\Debug\Treino_das_10_Partidas.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\obj\Debug\Treino das 10 Partidas.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\obj\Debug\Treino das 10 Partidas.exe
+C:\Users\Daniel\Desktop\Trabalhos\Treino das 10 Partidas\Treino das 10 Partidas\obj\Debug\Treino das 10 Partidas.pdb
